@@ -1,0 +1,97 @@
+.main_board {
+  position: absolute;
+  height: 90%;
+  width: 95%;
+  left: 2%;
+  top: 2%;
+  background: #173228;
+  border-radius: 190px;
+}
+
+.fase_number {
+  position: absolute;
+  left: 10%;
+  top: 5%;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 55px;
+  line-height: 64px;
+  color: #ffffff;
+}
+
+.title {
+  position: absolute;
+  left: 45%;
+  top: 5%;
+  font-family: Risque;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 55px;
+  line-height: 64px;
+  color: #ffffff;
+}
+
+.timer {
+  position: absolute;
+  right: 10%;
+  top: 5%;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 55px;
+  line-height: 64px;
+  color: #ffffff;
+}
+
+.quadro1 {
+  position: absolute;
+  width: 645px;
+  height: 470px;
+  left: 9%;
+  top: 20%;
+  background: #c4c4c4;
+  border-radius: 100px 0px 0px 100px;
+}
+
+.quadro2 {
+  position: absolute;
+  width: 645px;
+  height: 470px;
+  right: 9%;
+  top: 20%;
+  background: #c4c4c4;
+  border-radius: 0px 100px 100px 0px;
+}
+
+.items {
+  position: absolute;
+  width: 81%;
+  height: 100px;
+  bottom: 10%;
+  background: #9dada1;
+  border-radius: 50px;
+  left: 9%;
+  right: 9%;
+}
+
+.item {
+  margin-top: 1%;
+  margin-left: 2%;
+  width: 60px;
+  margin-right: 2%;
+}
+
+.item-selected {
+  box-shadow: 10px 10px 5px coral;
+  -moz-box-shadow: 10px 10px 5px coral;
+  -webkit-box-shadow: 10px 10px 5px coral;
+  -khtml-box-shadow: 10px 10px 5px coral;
+}
+
+.item-inside-box {
+  position: relative;
+  top: 40%;
+  width: 100px;
+  margin-left: 20%;
+}

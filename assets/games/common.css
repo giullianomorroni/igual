@@ -1,0 +1,15 @@
+.button_home {
+    position: absolute;
+    bottom: -5%;
+    left: 50%;
+    cursor:pointer;
+    border: none;
+}
+
+.button_restart {
+    position: absolute;
+    bottom: -5%;
+    left: 40%;
+    cursor:pointer;
+    border: none;
+}

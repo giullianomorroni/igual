@@ -1,0 +1,26 @@
+.quadro {
+  border: 1px solid;
+  margin: 20px;
+  height: 300px;
+  width: 300px;
+}
+
+.item {
+  width: 100px;
+  margin-right: 90px;
+}
+
+.item-selected {
+  box-shadow: 10px 10px 5px coral;
+  -moz-box-shadow: 10px 10px 5px coral;
+  -webkit-box-shadow: 10px 10px 5px coral;
+  -khtml-box-shadow: 10px 10px 5px coral;
+}
+
+.item-inside-box {
+  position: relative;
+  top: 40%;
+  width: 100px;
+  margin-left: 20%;
+}
+
