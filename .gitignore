@@ -46,4 +46,4 @@ _testmain.go
 #*.png
 #*.jpeg
 *.psd
-.DS_Store
+*.DS_Store
